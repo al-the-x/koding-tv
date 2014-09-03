@@ -1,4 +1,9 @@
-koding-tv
-=========
+* Watch people code live...
+* Learn tips, tricks, and advanced techniques...
+* Ask questions and get answers!
 
-Watch people code live and pick up tips, tricks, and advanced techniques...!
+### TODO
+
+* ~~Get started!~~
+* Make stuff work!
+* Talk it up!
