@@ -1,5 +1,4 @@
 ---
-permalink: index.html
 ---
 
 * Watch people code live...

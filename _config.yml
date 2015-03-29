@@ -1,5 +1,7 @@
 defaults:
   scope:
-    path: ""
+    path: "README.md"
+    type: "pages"
   values:
     layout: "default"
+    permalink: "index.html"
