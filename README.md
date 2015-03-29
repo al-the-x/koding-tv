@@ -1,3 +1,7 @@
+---
+permalink: index.html
+---
+
 * Watch people code live...
 * Learn tips, tricks, and advanced techniques...
 * Ask questions and get answers!
