@@ -1,4 +1,6 @@
 ---
+layout: "default"
+permalink: "index.html"
 ---
 
 * Watch people code live...
